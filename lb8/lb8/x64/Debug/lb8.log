@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\росен\source\repos\lb8\lb8\Source.c(53,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\росен\source\repos\lb8\lb8\Source.c(8,13): warning C4101: q: неиспользованная локальная переменная
+C:\Users\росен\source\repos\lb8\lb8\Source.c(8,10): warning C4101: c: неиспользованная локальная переменная
+C:\Users\росен\source\repos\lb8\lb8\Source.c(7,8): warning C4101: j: неиспользованная локальная переменная
+  lb8.vcxproj -> C:\Users\росен\source\repos\lb8\x64\Debug\lb8.exe
